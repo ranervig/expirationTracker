@@ -1,3 +1,19 @@
+#
+# Name : main.py
+# Author: Robby Nervig
+# Created : 12/10/2021
+# Course: CIS 152 - Data Structure
+# Version: 1.0
+# OS: Windows 10
+# IDE: PyCharm 2021.2.1 (Community Edition)
+# Copyright : This is my own original work
+#   based on specifications issued by our instructor
+# Description : This program uses a GUI to create an expiration tracker for stores.
+# Academic Honesty: I attest that this is my original work.
+#   I have not used unauthorized source code, either modified or
+#   unmodified. I have not given other fellow student(s) access
+#   to my program.
+#
 import heapq
 import tkinter as tk
 from tkinter import ttk, messagebox
